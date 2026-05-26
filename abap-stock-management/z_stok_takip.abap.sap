@@ -1,0 +1,14 @@
+[System]
+Name=NPL
+Description=sap developer edition1
+Client=001
+[User]
+Name=DEVELOPER
+Language=EN
+[Function]
+Title=ABAP Editor: Change Report Z_STOK_TAKIP
+Command=SE38
+[Configuration]
+WorkDir=C:\Users\Monster\Documents\SAP\SAP GUI
+[Options]
+Reuse=1
